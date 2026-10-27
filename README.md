@@ -37,7 +37,7 @@ Os exercícios vão desde conceitos básicos de lógica de programação até ap
 
 Os códigos foram preservados conforme as entregas originais, mantendo as soluções desenvolvidas durante o terceiro período da graduação.
 
-Este repositório é um registro do meu aprendizado e de onde minha jornada com Java começou. (≧◡≦) ♡
+Este repositório é um registro do meu aprendizado e de onde minha jornada com Java começou. ◝(ᵔᗜᵔ)◜
 
 ---
 
@@ -82,6 +82,6 @@ The exercises range from basic programming logic to applications involving class
 
 The code has been preserved as originally submitted, keeping the solutions developed during the third semester of my degree.
 
-This repository documents my learning process and the beginning of my journey with Java. (≧◡≦) ♡
+This repository documents my learning process and the beginning of my journey with Java. ◝(ᵔᗜᵔ)◜
 
 </details>
