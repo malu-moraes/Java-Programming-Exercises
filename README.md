@@ -48,7 +48,7 @@ Este repositório é um registro do meu aprendizado e de onde minha jornada com 
 
 (˶ᵔ ᵕ ᵔ˶) ♡
 
-This repository contains exercises and assignments completed in 2025, during the third semester of my **Information Systems** degree, as part of the Programming Languages course.
+This repository contains exercises and assignments completed in 2025, during the third semester of my **Computer Information Systems** degree, as part of the Programming Languages course.
 
 The exercises range from basic programming logic to applications involving classes, objects, inheritance, and polymorphism. This repository also documents one stage of my academic journey. (˶˃ ᵕ ˂˶)
 
